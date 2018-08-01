@@ -23,7 +23,7 @@ printOut(30, 300);
 
 //console.log(false == '0') => true;  because the Operator ==(equal to) only compares the value of 2 variables false  and '0';
 
-//console.log(false === '0') => false;because the Operator ===(equal value and equal type) compare both value and type of variables; the types here are boolean and chracter, so it is false
+//console.log(false === '0') => false;because the Operator ===(equal value and equal type) compare both value and type of variables; the types here are boolean and character, so it is false
 
 
 
